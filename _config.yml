@@ -12,18 +12,18 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://username.github.io/
-baseurl: /dsseara/
-title: Daniel S. Seara
-author: Daniel S. Seara
+baseurl: /sustain/
+title: Chris Turner
+author: Chris Turner
 description: Personal blog and resume
-avatar: img/profile.png
-email: daniel.seara@yale.com
-github: dsseara # username
-twitter: dsseara
-linkedin: dsseara
-# stackoverflow: username   #e.g: users/2735833/proton1h1
+avatar: profile.png
+email: yourname@email.com
+github: jekyller/sustain # username
+twitter: username
+linkedin: username
+stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-# disqus: username
+disqus: username
 google_analytics: UA-69391421-1
 
 
