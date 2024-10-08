@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 0px;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #f4f4f4;
+    color: black;
+    padding: 1rem;
+    text-align: left;
+}
+
+nav a, nav a:link {
+    color: steelblue;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+#introduction {
+    text-align: left;
+    padding: 0rem;
+    margin-left: 20px;
+}
+
+#introduction img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+#news, #publications {
+    padding: 2rem;
+    background: #fff;
+    margin: 1rem auto;
+    max-width: 1000px;
+}
+
+footer {
+    /* position: fixed; */
+    height: 75px;
+    background-color: #f4f4f4;
+    color: black;
+    padding: 1rem;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+a:link {
+    color: mintcream;
+    text-decoration: none;
+}
+
+header a:link {
+    color: steelblue
+}
