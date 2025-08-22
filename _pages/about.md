@@ -11,9 +11,9 @@ profile:
   more_info: >
     <p>seara \at uic \dot edu</p>
 
-# news: true # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+# social: true # includes social icons at the bottom of the page
 ---
 
 I am a theoretical physicist studying complex, living systems from cells to societies.
