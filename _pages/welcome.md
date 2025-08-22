@@ -1,7 +1,7 @@
 ---
 layout: page
 title: welcome
-permalink: /welcome/
+permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 news: true # includes a list of news items
