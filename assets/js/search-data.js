@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-",
-          title: "",
+        },{id: "nav-people",
+          title: "people",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-job-openings",
+          title: "job openings",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/jobs/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
