@@ -7,8 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-# Job Openings
-
 We are always looking for talented and motivated individuals to join our research group!
 
 If you are interested in doing cutting-edge computational and theoretical research at the intersection of engineering, physics, biology, and mathematics, please see the opportunities below.

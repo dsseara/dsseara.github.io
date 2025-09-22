@@ -16,3 +16,7 @@ We are particularly interested in the mechanics and dynamics of non-equilibrium 
 These diverse systems exhibit complex behaviors driven by their consumption of both energy and information.
 We develop models and algorithms to describe, predict, and control these behaviors in close collaboration with experimentalists.
 <!-- Our curiosity-driven research sits at the intersection of physics, biology, engineering, applied mathematics, and data science. -->
+
+---
+
+We are actively recruiting PhD and Masters students! Please see our [Job openings](/jobs/) page to learn more.
