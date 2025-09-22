@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /people/
-title:
+title: people
 nav: true
 nav_order: 3
 ---
-# Group members
+
 
 <img src="../assets/img/seara.jpg" alt="Daniel S. Seara" style="float: left; margin-right: 20px; width: 150px; height: 150px; object-fit: cover; border-radius: 10px;"/>
 
@@ -32,8 +32,8 @@ We are looking for motivated students at all levels! If you are interested, plea
 ---
 
 
-<!-- ---
-
+<!-- 
 ## Alumni
 
-*Coming soon...* -->
+*Coming soon...*
+ -->
