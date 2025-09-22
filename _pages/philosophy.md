@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-## Research Philosophy
-
 > “In order to discover new lands, one must be willing to lose sight of the shore for a very long time.” *- Andre Gide*
 
 ### We are driven by curiosity
@@ -35,6 +33,8 @@ We seek to address real-world phenomena, while also imagining new possibilities 
 
 ### Scientific Integrity
 
+Our work lives and dies by our 
+
 We maintain the highest standards of scientific rigor and reproducibility.
 We are committed to open science — we publish papers on [preprint servers](https://info.arxiv.org/about/index.html), provide [open source software](https://opensource.org/about), and deposit data on [open repositories](https://about.zenodo.org/).
 We welcome new perspectives and data that change our approach and vow to always question our assumptions.
@@ -47,11 +47,11 @@ We create opportunities for historically underrepresented groups in science, and
 
 ### Mentorship & Growth
 
+We promote a growth mindset for all group members.
 We invest in the professional and personal development of all group members.
 We provide opportunities for independent research and leadership.
 We regularly attend conferences, workshops, and seminars, and share what we learn with the group.
 We encourage intellectual risk-taking and learning from failure.
-
 
 ### Collaborative Environment
 
@@ -59,12 +59,13 @@ Science today is a group endeavor.
 Group members regularly share ideas, provide constructive feedback on each other's work, and collaborate on projects.
 We celebrate each other's successes and support each other through challenges.
 
-Clear communication is essential for effective collaboration. We practice active listening, provide constructive feedback, and work to ensure that all group members feel comfortable expressing their ideas and concerns.
+Clear communication is essential for effective collaboration.
+We practice active listening, provide constructive feedback, and work to ensure that all group members feel comfortable expressing their ideas and concerns.
 
 ### Work-Life Balance
 
 We recognize that sustainable, high-quality research requires a healthy work-life balance.
-We encourage group members to pursue their interests outside of work, prioritize their social lives, and take time away from work.
+We encourage group members to pursue their interests outside of work, to take time with loved ones, and prioritize their physical and mental health.
 
 
 ---
@@ -75,7 +76,7 @@ We encourage group members to pursue their interests outside of work, prioritize
 - Treat everyone with respect and professionalism
 - Contribute to a positive, inclusive lab environment
 - Maintain high standards of scientific integrity
-- Communicate openly, honestly, and often
+- Communicate openly, honestly, and frequently
 - Support and mentor others when possible
 
 ### Of Professor Seara
@@ -117,6 +118,7 @@ We encourage group members to pursue their interests outside of work, prioritize
 - I will discuss policies on work hours, medical leave, vacation, or any other planned absence with my program and advisor.
 - I will discuss policies on authorship of papers and attendance of conferences with my advisor.
 - I will attend and actively participate in group meetings, seminars, and journal clubs.
+- I will respond to questions within 72 hours (via email, phone, or in person, if only to let them know that I have received the message).
 
 #### Of graduate students
 - I will work with my advisor to develop a research project.

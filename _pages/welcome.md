@@ -11,6 +11,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
 ---
 
+# The Seara Group
+
 The Seara group conducts curiosity-driven research at the intersection of physics, biology, engineering, applied mathematics, and data science.
 We are particularly interested in the mechanics and dynamics of non-equilibrium materials, from colloids to cells to societies.
 These diverse systems exhibit complex behaviors driven by their consumption of both energy and information.
