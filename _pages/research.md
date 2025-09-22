@@ -17,7 +17,7 @@ See below for highlights of our research (ordered alphabetically, not in order o
 
 ## [Active materials](#)
 
-<img src="../assets/img/research/advective_ising.gif" alt="Active Matter" style="float: left; margin-right: 20px; width: 200px; height: 200px; object-fit: cover; border-radius: 10px;"/>
+<img src="../assets/img/research/placeholder1.jpg" alt="Active Matter" style="float: left; margin-right: 20px; width: 200px; height: 200px; object-fit: cover; border-radius: 10px;"/>
 
 Active matter is driven out of equilibrium at the individual scale.
 Our work uses theoretical modeling to understand pattern formation, flocking, and phase transitions in active systems, with applications from robotic to bacterial swarms.
@@ -29,7 +29,7 @@ Future work will focus information propagation in swarms with excitable, non-rec
 
 ## [Living materials](#)
 
-<img src="../assets/img/research/oocyte_jiggle.gif" alt="Cell Dynamics" style="float: left; margin-right: 20px; width: 200px; height: 200px; object-fit: cover; border-radius: 10px;"/>
+<img src="../assets/img/research/placeholder2.jpg" alt="Cell Dynamics" style="float: left; margin-right: 20px; width: 200px; height: 200px; object-fit: cover; border-radius: 10px;"/>
 
 Biological systems coordinate both biochemical signaling and mechanical deformations for vital life processes across scales, from cell division to inflammatory responses.
 We study the coupling between these, bridging chemical and mechanical activity with applications in development, disease, and bioengineering.
@@ -41,7 +41,7 @@ Future work will focus on controlling mechanical deformations via biochemical pa
 
 ## [Social materials](#)
 
-<img src="../assets/img/research/sociohydro.gif" alt="Sociohydrodynamics" style="float: left; margin-right: 20px; width: 200px; height: 200px; object-fit: cover; border-radius: 10px;"/>
+<img src="../assets/img/research/placeholder3.jpg" alt="Sociohydrodynamics" style="float: left; margin-right: 20px; width: 200px; height: 200px; object-fit: cover; border-radius: 10px;"/>
 
 Humans in urban environments are the epitome of complexity.
 We take a novel approach towards understanding social systems, utilizing the tools of active matter and biological physics to understand the interplay between human activity and the environment they construct around them.
