@@ -33,8 +33,6 @@ We seek to address real-world phenomena, while also imagining new possibilities 
 
 ### Scientific Integrity
 
-Our work lives and dies by our 
-
 We maintain the highest standards of scientific rigor and reproducibility.
 We are committed to open science — we publish papers on [preprint servers](https://info.arxiv.org/about/index.html), provide [open source software](https://opensource.org/about), and deposit data on [open repositories](https://about.zenodo.org/).
 We welcome new perspectives and data that change our approach and vow to always question our assumptions.
