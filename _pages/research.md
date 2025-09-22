@@ -24,6 +24,7 @@ Future work will focus information propagation in swarms with excitable, non-rec
 
 <div style="clear: both;"></div>
 
+---
 
 ## [Living materials](#)
 
@@ -36,6 +37,7 @@ Future work will focus on controlling mechanical deformations via biochemical pa
 
 <div style="clear: both;"></div>
 
+---
 
 ## [Social materials](#)
 
