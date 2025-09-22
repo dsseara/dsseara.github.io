@@ -6,8 +6,6 @@ nav: true
 nav_order: 2
 ---
 
-# Research Directions
-
 Our group explores the mechanics and dynamics of complex systems comprising physical, biological, or social individuals. Throughout these disparate domains, we focus on far-from-equilibrium behaviors driven by interactions and nonlinearities. We are particularly interested in the impacts of simple information processing on self-organized, collective behavior.
 
 Our tools include dynamical systems theory, physics-informed machine learning, statistical mechanics, and hydrodynamics. At every opportunity, we work in close collaboration with experimentalists.

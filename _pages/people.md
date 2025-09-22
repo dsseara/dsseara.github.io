@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: people
+title:
 nav: true
 nav_order: 3
 ---
@@ -13,8 +13,7 @@ nav_order: 3
 Principal Investigator  
 EIB 160
 
-[email](mailto:seara@uic.edu) |
-[MIE website](https://mie.uic.edu/profiles/seara-daniel/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=jVN_gF8AAAAJ&view_op=list_works&sortby=pubdate) | [CV](../assets/pdf/seara_cv.pdf)
+[email](mailto:seara@uic.edu) | [MIE website](https://mie.uic.edu/profiles/seara-daniel/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=jVN_gF8AAAAJ&view_op=list_works&sortby=pubdate) | [CV](../assets/pdf/seara_cv.pdf)
 
 <div style="clear: both;"></div>
 
@@ -31,9 +30,6 @@ We are looking for motivated students at all levels! If you are interested, plea
 <div style="clear: both;"></div>
 
 ---
-
-
-
 
 
 <!-- ---
