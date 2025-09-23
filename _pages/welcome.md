@@ -22,4 +22,8 @@ We draw on our experience in biological physics, soft condensed matter physics, 
 
 ---
 
-We are actively recruiting PhD and Masters students! Please see our [job openings](/jobs/) page to learn more.
+## We're hiring!
+
+We are actively recruiting 2 PhD students! [See more here](/assets/pdf/2025-09-23_phdAdvert.pdf).
+
+We are also happy to advise MS and undergraduate students. Please see our [job openings](/jobs/) page to learn more.

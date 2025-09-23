@@ -15,11 +15,9 @@ If you are interested in doing cutting-edge, transdisciplinary research at the i
 
 ## PhD Students
 
-**We are actively recruiting two, fully-funded PhD students.**
+**We are actively recruiting two, fully-funded PhD students.** 
 
-Prospective students can apply to the Mechanical and Industrial Engineering Department at UIC.
-
-Prior to applying, email Prof. Seara with a CV and a statement of your research interests.
+[See more here](/assets/pdf/2025-09-23_phdAdvert.pdf)
 
 ---
 
@@ -39,7 +37,7 @@ We welcome motivated undergraduate students to join our research projects. Pleas
 
 ## Postdoctoral Researchers
 
-We are looking for one postdoctoral researcher with expertise in:
+We have funds to hire one postdoctoral researcher with expertise in:
 
 - **Theoretical Physics**: Active matter, statistical mechanics, dynamical systems, biological physics
 - **Machine Learning**: Physics-informed ML, data analysis, complex systems
