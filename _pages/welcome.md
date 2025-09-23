@@ -14,11 +14,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 # The Seara Group
 
 The Seara group conducts curiosity-driven research at the intersection of physics, biology, engineering, applied mathematics, and data science.
-We are particularly interested in the mechanics and dynamics of non-equilibrium materials, from colloids to cells to societies.
-These diverse systems exhibit complex behaviors driven by their consumption of both energy and information.
-We develop models and algorithms to describe, predict, and control these behaviors in close collaboration with experimentalists.
+We are particularly interested in emergent mechanics and dynamics in complex systems, from collections of colloids to cells to societies.
+These collective behaviors are driven by the consumption of both energy and information, eliminating the possibility of describing them using traditional, equilibrium-like physical methods.
+
+We draw on our experience in biological physics, soft condensed matter physics, statistical mechanics, and applied mathematics to develop both analytic and data-driven mathematical descriptions of complex systems. Take a look at our [publications](/publications/) or our [research](/research/) page to learn more.
 <!-- Our curiosity-driven research sits at the intersection of physics, biology, engineering, applied mathematics, and data science. -->
 
 ---
 
-We are actively recruiting PhD and Masters students! Please see our [Job openings](/jobs/) page to learn more.
+We are actively recruiting PhD and Masters students! Please see our [job openings](/jobs/) page to learn more.

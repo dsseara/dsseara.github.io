@@ -25,7 +25,7 @@ EIB 160
 
 We are looking for motivated students at all levels! If you are interested, please email Professor Seara with your CV and a statement of interest.
 
-*image credit: [Audobon Society](https://www.audubon.org/art/birds-america/american-magpie)*
+*image credit: [Audubon Society](https://www.audubon.org/art/birds-america/american-magpie)*
 
 <div style="clear: both;"></div>
 

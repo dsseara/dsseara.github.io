@@ -9,13 +9,15 @@ nav_order: 5
 
 We are always looking for talented and motivated individuals to join our research group!
 
-If you are interested in doing cutting-edge computational and theoretical research at the intersection of engineering, physics, biology, and mathematics, please see the opportunities below.
+If you are interested in doing cutting-edge, transdisciplinary research at the intersection of engineering, physics, biology, and mathematics, please see the opportunities below.
 
 ---
 
 ## PhD Students
 
-We are actively recruiting PhD students. Prospective students can apply to the Mechanical and Industrial Engineering Department at UIC. 
+**We are actively recruiting two, full-funded PhD students.**
+
+Prospective students can apply to the Mechanical and Industrial Engineering Department at UIC.
 
 Prior to applying, email Prof. Seara with a CV and a statement of your research interests.
 
@@ -37,9 +39,9 @@ We welcome motivated undergraduate students to join our research projects. Pleas
 
 ## Postdoctoral Researchers
 
-We have openings for postdoctoral researchers with expertise in:
+We are looking for one postdoctoral researcher with expertise in:
 
-- **Theoretical Physics**: Active matter, statistical mechanics, dynamical systems, biological phsyics
+- **Theoretical Physics**: Active matter, statistical mechanics, dynamical systems, biological physics
 - **Machine Learning**: Physics-informed ML, data analysis, complex systems
 - **Applied Mathematics**: Nonlinear dynamics, pattern formation, optimization
 

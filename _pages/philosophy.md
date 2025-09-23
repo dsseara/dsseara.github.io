@@ -13,7 +13,7 @@ nav_order: 6
 
 We pursue fundamental science to drive practical applications.
 Our research is motivated by genuine curiosity about the natural world and the desire to understand the underlying principles that govern complex behaviors.
-From these fundamentals, we look towards applications with impacts within and beyond our own community.
+From these fundamentals, we look toward applications with impacts within and beyond our own community.
 
 Thus, we pursue *curiosity-driven engineering*.
 
