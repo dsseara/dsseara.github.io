@@ -15,7 +15,7 @@ If you are interested in doing cutting-edge, transdisciplinary research at the i
 
 ## PhD Students
 
-**We are actively recruiting two, full-funded PhD students.**
+**We are actively recruiting two, fully-funded PhD students.**
 
 Prospective students can apply to the Mechanical and Industrial Engineering Department at UIC.
 
