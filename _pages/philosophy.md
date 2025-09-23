@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-> “In order to discover new lands, one must be willing to lose sight of the shore for a very long time.” *- Andre Gide*
+<!-- > “In order to discover new lands, one must be willing to lose sight of the shore for a very long time.” *- Andre Gide* -->
 
 ### We are driven by curiosity
 
@@ -53,7 +53,7 @@ We encourage intellectual risk-taking and learning from failure.
 
 ### Collaborative Environment
 
-> "... if I have seen further, it is by standing on the shoulders of giants." - *[Isaac Newton to Robert Hooke (who was quite short), 1675](https://digitallibrary.hsp.org/index.php/Detail/objects/9792)*
+<!-- > "... if I have seen further, it is by standing on the shoulders of giants." - *[Isaac Newton to Robert Hooke (who was quite short), 1675](https://digitallibrary.hsp.org/index.php/Detail/objects/9792)* -->
 
 Science today is a group endeavor.
 Group members regularly share ideas, provide constructive feedback on each other's work, and collaborate on projects.
@@ -64,7 +64,7 @@ We practice active listening, provide constructive feedback, and work to ensure 
 
 ### Work-Life Balance
 
-> "I am very poorly today & very stupid & hate everybody & everything. One lives only to make blunders." - *[Charles Darwin to Charles Lyell, 1861](https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3272.xml)*
+<!-- > "I am very poorly today & very stupid & hate everybody & everything. One lives only to make blunders." - *[Charles Darwin to Charles Lyell, 1861](https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-3272.xml)* -->
 
 We recognize that sustainable, high-quality research requires a healthy work-life balance.
 We encourage group members to pursue their interests outside of work, to take time with loved ones, and prioritize their physical and mental health.
