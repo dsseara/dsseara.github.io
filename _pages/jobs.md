@@ -10,7 +10,7 @@ nav_order: 5
 We are always looking for talented and motivated individuals to join our research group!
 
 If you are interested in doing cutting-edge, transdisciplinary research at the intersection of engineering, physics, biology, and mathematics, please see the opportunities below.
-[Applicants out this google form.](https://forms.gle/JVu5sJB9g2BWBFYX8)
+[Applicants, please fill out this google form.](https://forms.gle/JVu5sJB9g2BWBFYX8)
 
 ---
 
