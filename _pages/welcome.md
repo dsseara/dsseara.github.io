@@ -9,6 +9,7 @@ nav_order: 1
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
+header_video: "assets/video/Dvar_9.50_rep_01.mp4"
 ---
 
 # The Seara Group

@@ -8,6 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  header_video: "assets/video/Dvar_9.50_rep_01.mp4"
   more_info: >
     <p>seara \at uic \dot edu</p>
 

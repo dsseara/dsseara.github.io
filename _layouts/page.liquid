@@ -10,6 +10,11 @@ layout: default
 
 <div class="post">
   <header class="post-header">
+    {% if page.header_video %}
+      <div class="header-video" style="margin-bottom: 1rem;">
+        {% include video.liquid path=page.header_video class="img-fluid rounded" autoplay=true muted=true loop=true controls=false %}
+      </div>
+    {% endif %}
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-description">{{ page.description }}</p>
   </header>
