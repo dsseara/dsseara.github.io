@@ -11,8 +11,8 @@ layout: default
 <div class="post">
   <header class="post-header">
     {% if page.header_video %}
-      <div class="header-video" style="margin-bottom: 1rem;">
-        {% include video.liquid path=page.header_video class="img-fluid rounded" autoplay=true muted=true loop=true controls=false %}
+      <div class="header-video" style="margin-bottom: 1rem; width: 100%;">
+        {% include video.liquid path=page.header_video class="img-fluid rounded" width="100%" autoplay=true muted=true loop=true controls=false %}
       </div>
     {% endif %}
     <h1 class="post-title">{{ page.title }}</h1>
