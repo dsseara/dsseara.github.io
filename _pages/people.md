@@ -10,10 +10,22 @@ nav_order: 3
 <img src="../assets/img/seara.jpg" alt="Daniel S. Seara" style="float: left; margin-right: 20px; width: 150px; height: 150px; object-fit: cover; border-radius: 10px;"/>
 
 **Danny Seara** \
-Principal Investigator  
+Principal Investigator \
 EIB 160
 
 [email](mailto:seara@uic.edu) | [MIE website](https://mie.uic.edu/profiles/seara-daniel/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=jVN_gF8AAAAJ&view_op=list_works&sortby=pubdate) | [CV](../assets/pdf/seara_cv.pdf)
+
+<div style="clear: both;"></div>
+
+---
+
+<img src="../assets/img/godil.jpg" alt="Hamza Godil" style="float: left; margin-right: 20px; width: 150px; height: 150px; object-fit: cover; border-radius: 10px;"/>
+
+**Hamza Godil** \
+Master's student \
+ERF 2020
+
+[email](mailto:hgodil2@uic.edu)
 
 <div style="clear: both;"></div>
 
