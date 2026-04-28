@@ -22,12 +22,25 @@ EIB 160
 <img src="../assets/img/godil.jpg" alt="Hamza Godil" style="float: left; margin-right: 20px; width: 150px; height: 150px; object-fit: cover; border-radius: 10px;"/>
 
 **Hamza Godil** \
-Master's student \
+PhD student \
 ERF 2020
 
 [email](mailto:hgodil2@uic.edu)
 
 <div style="clear: both;"></div>
+
+---
+
+<img src="../assets/img/nguyen.jpg" alt="Emily Nguyen" style="float: left; margin-right: 20px; width: 150px; height: 150px; object-fit: cover; border-radius: 10px;"/>
+
+**Emily Nguyen** \
+Undergraduate student \
+ERF 2020
+
+[email](mailto:enguy31@uic.edu)
+
+<div style="clear: both;"></div>
+
 
 ---
 
