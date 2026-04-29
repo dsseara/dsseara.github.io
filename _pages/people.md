@@ -41,6 +41,17 @@ ERF 2020
 
 <div style="clear: both;"></div>
 
+---
+
+<img src="../assets/img/audobon_blackthroatedbluewarbler.png" alt="Charan Chandran" style="float: left; margin-right: 20px; width: 150px; height: 150px; object-fit: cover; border-radius: 10px;"/>
+
+**Charan Chandran** \
+Undergraduate student \
+ERF 2020
+
+[email](mailto:charanc2@uic.edu)
+
+<div style="clear: both;"></div>
 
 ---
 
@@ -49,8 +60,6 @@ ERF 2020
 **Join us!**
 
 We are looking for motivated students at all levels! If you are interested, please email Professor Seara with your CV and a statement of interest.
-
-*image credit: [Audubon Society](https://www.audubon.org/art/birds-america/american-magpie)*
 
 <div style="clear: both;"></div>
 
