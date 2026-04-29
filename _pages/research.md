@@ -15,7 +15,7 @@ See below for highlights of our research (ordered alphabetically, not in order o
 
 ## [Active materials](#)
 
-<img src="../assets/img/active_agents.gif" alt="Active Matter" style="float: left; margin-right: 20px; width: 200px; height: 200px; object-fit: cover; border-radius: 10px;"/>
+<img src="../assets/img/levitation-crop.gif" alt="Active Matter" style="float: left; margin-right: 20px; width: 200px; height: 200px; object-fit: cover; border-radius: 10px;"/>
 
 Active matter is driven out of equilibrium at the individual scale.
 Our work uses theoretical modeling to understand pattern formation, flocking, and phase transitions in active systems, with applications from robotic to bacterial swarms.
