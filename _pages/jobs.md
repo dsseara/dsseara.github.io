@@ -10,15 +10,15 @@ nav_order: 5
 We are always looking for talented and motivated individuals to join our research group!
 
 If you are interested in doing cutting-edge, transdisciplinary research at the intersection of engineering, physics, biology, and mathematics, please see the opportunities below.
-[Applicants, please fill out this google form.](https://forms.gle/JVu5sJB9g2BWBFYX8)
 
 ---
 
-## PhD Students
+## PhD Students & Postdoctoral researchers
 
-**We are actively recruiting two, fully-funded PhD students.** 
+Interested PhD students should apply to [UIC's MIE PhD program](https://mie.uic.edu/graduate/admissions/).
+Also contact Professor Seara via email to express your interest in working in our group, outlining relevant background and interest.
 
-[See more here](/assets/pdf/2025-09-23_phdAdvert.pdf)
+Those interested in a postdoctoral position should contact Professor Seara by email.
 
 ---
 
@@ -33,24 +33,6 @@ Please contact Prof. Seara to discuss thesis opportunities.
 ## Undergraduate Researchers
 
 We welcome motivated undergraduate students to join our research projects. Please contact Prof. Seara to set up a time to discuss research projects.
-
----
-
-## Postdoctoral Researchers
-
-We have funds to hire one postdoctoral researcher with expertise in:
-
-- **Theoretical Physics**: Active matter, statistical mechanics, dynamical systems, biological physics
-- **Machine Learning**: Physics-informed ML, data analysis, complex systems
-- **Applied Mathematics**: Nonlinear dynamics, pattern formation, optimization
-
-**How to apply:**
-
-Please email Prof. Seara with:
-- Your CV
-- Research statement (2-3 pages)
-- Three letters of recommendation
-- Representative publications
 
 
 ---
