@@ -19,6 +19,18 @@ EIB 160
 
 ---
 
+<img src="../assets/img/giardini.png" alt="Guilherme S.Y. Giardini" style="float: left; margin-right: 20px; width: 150px; height: 150px; object-fit: cover; border-radius: 10px;"/>
+
+**Guilherme S.Y. Giardini** \
+Postdoctoral researcher \
+ERF 2020
+
+<!-- [email](mailto:hgodil2@uic.edu) -->
+
+<div style="clear: both;"></div>
+
+---
+
 <img src="../assets/img/godil.jpg" alt="Hamza Godil" style="float: left; margin-right: 20px; width: 150px; height: 150px; object-fit: cover; border-radius: 10px;"/>
 
 **Hamza Godil** \
