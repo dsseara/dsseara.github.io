@@ -54,6 +54,9 @@ ninja.data = [{
         },{id: "news-we-are-looking-for-motivated-ph-d-students-to-join-us-please-reach-out-to-prof-seara-if-you-are-interested-in-joining-the-group",
           title: 'We are looking for motivated Ph.D. students to join us! Please reach out...',
           description: "",
+          section: "News",},{id: "news-this-semester-hamza-started-his-phd-and-guilherme-joined-as-a-postdoc-welcome",
+          title: 'This semester, Hamza started his PhD and Guilherme joined as a postdoc. Welcome!!...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
