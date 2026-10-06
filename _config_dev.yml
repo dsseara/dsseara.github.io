@@ -1,0 +1,4 @@
+# Local-only overrides: skip slow responsive-image generation.
+# Use: bundle exec jekyll serve --config _config.yml,_config_dev.yml
+imagemagick:
+  enabled: false
